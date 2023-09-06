@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**akhilagonegari/akhilagonegari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm [Gonegari Akhila] 👋
 
-Here are some ideas to get you started:
+Recent graduate with a [Bachelors] in [Information Techonolgy] from [SVIT,HYDERABAD]. I'm excited to embark on my journey as a software developer/data scientist/engineer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Key Skills
+
+- **Languages**: Proficient in Java, Python, HTML, HTTP, C++, and data science technologies.
+- **Software Development**: Experienced in building web applications and working with system-level programming.
+- **Data Science**: Skilled in data analysis, machine learning, and predictive modeling.
+- **Problem Solving**: Strong problem-solving skills and a knack for algorithms and data structures.
+- **Communication**: Effective communicator with a passion for learning and collaborating.
+
+
